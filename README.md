@@ -3,4 +3,4 @@ Repositório criado para armazenar e socializar resoluções propostas pelo prof
 
 
 *Sugestões*:
-- Assista [aqui] o filme *The Internet's Own Boy: The Story of Aaron Swartz*  https://www.youtube.com/watch?v=2uj1EeiuK5U;
+- Assista [aqui](https://www.youtube.com/watch?v=2uj1EeiuK5U) o filme *The Internet's Own Boy: The Story of Aaron Swartz*;
